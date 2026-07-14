@@ -28,3 +28,4 @@ FTIR datasets often suffer from baseline shifts due to instrumental drift or sam
 * `ftir_analyzer.py`: The main Python script containing the ETL pipeline and visualization logic.
 * `.gitignore`: Configured to keep the repository clean of compiled binaries (`/dist`, `/build`) and cache.
 * `LICENSE`: MIT License terms allowing open-source distribution and modifications.
+* `INSTRUCTIONS.md`: Instructions to download and use the latest version of the FTIR Analyzer.
